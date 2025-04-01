@@ -98,12 +98,6 @@ const mostrarResultado = (resultado) => {
       const celda = document.createElement("div");
       celda.classList.add("celda")
       celda.textContent = valor;
-      // celda.style.border = "1px solid black";
-      // celda.style.padding = "10px";
-      // celda.style.margin = "2px";
-      // celda.style.width = "40px";
-      // celda.style.textAlign = "center";
-      // celda.style.fontWeight = "bold";
 
       resultadoDiv.appendChild(celda);
     });

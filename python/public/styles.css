@@ -1,0 +1,14 @@
+
+
+.resultado-matrices {
+  display: flex;
+}
+
+.celda {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 2px;
+  width: 40px;
+  text-align: center;
+  font-weight: bold;
+}
